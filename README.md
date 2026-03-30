@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Enoc Carera</h1>
-<h3 align="center">I am currently a computer systems engineering student</h3>
+<h1 align="center">Hooooola 👋</h1>
+<h3 align="center">Solo soy un simple usuario de Archlinux que le gusta automatizar procesos porque da pereza escribir tantos comando</h3>
 <a href="#" ><img src="https://i.postimg.cc/52RJHLzL/F6q3lz.jpg" height="100%" width="100%" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enock8574&label=Profile%20views&color=0e75b6&style=flat" alt="enock8574" /> </p>
 
-- I’m working on... **Finish my career**
+- Los repositorios de aqui son para uso personal
 
-- I’m learning **Python and Shell Scripting**
+- Estoy aprendiendo Python y algo de BASH
 
-- I love retro stuff
+- Me gustan las cosas RETRO
 
-- My main OS (BTW) ;) <br>
+- Mencione que uso ARCH?? (BTW) ;) <br>
 <a href="#"><img src="https://i.postimg.cc/qMmzpmkG/archlinux-logo-light-90dpi-d36c53534a2b.png" height="80%" width="80%" /></a>
                                                                                                                                        
                                                                                                                                        

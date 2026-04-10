@@ -1,6 +1,5 @@
 <h1 align="center">Hooooola 👋</h1>
 <h3 align="center">Solo soy un simple usuario de Archlinux que le gusta automatizar procesos </h3>
-<a href="#" ><img src="https://i.postimg.cc/52RJHLzL/F6q3lz.jpg" height="100%" width="100%" /></a>
 <p align="left"> <img src="https://images4.alphacoders.com/140/thumb-1920-1407553.png" alt="enock8574" /> </p>
 
 - Los repositorios de aqui son para uso personal

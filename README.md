@@ -1,7 +1,7 @@
 <h1 align="center">Hooooola 👋</h1>
-<h3 align="center">Solo soy un simple usuario de Archlinux que le gusta automatizar procesos porque da pereza escribir tantos comando</h3>
+<h3 align="center">Solo soy un simple usuario de Archlinux que le gusta automatizar procesos </h3>
 <a href="#" ><img src="https://i.postimg.cc/52RJHLzL/F6q3lz.jpg" height="100%" width="100%" /></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enock8574&label=Profile%20views&color=0e75b6&style=flat" alt="enock8574" /> </p>
+<p align="left"> <img src="https://images4.alphacoders.com/140/thumb-1920-1407553.png" alt="enock8574" /> </p>
 
 - Los repositorios de aqui son para uso personal
 
@@ -9,7 +9,7 @@
 
 - Me gustan las cosas RETRO
 
-- Mencione que uso ARCH?? (BTW) ;) <br>
+- Sistema operativo que uso actualmente (BTW) ;) <br>
 <a href="#"><img src="https://i.postimg.cc/qMmzpmkG/archlinux-logo-light-90dpi-d36c53534a2b.png" height="80%" width="80%" /></a>
                                                                                                                                        
                                                                                                                                        

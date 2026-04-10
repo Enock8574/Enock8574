@@ -8,6 +8,8 @@
 
 - Me gustan las cosas RETRO
 
+- No me considero experto, todos los dias aprendo algo nuevo :D
+
 - Sistema operativo que uso actualmente (BTW) ;) <br>
 <a href="#"><img src="https://i.postimg.cc/qMmzpmkG/archlinux-logo-light-90dpi-d36c53534a2b.png" height="80%" width="80%" /></a>
                                                                                                                                        
